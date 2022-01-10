@@ -16,4 +16,4 @@
     * 4.1 User: admin
     * 4.2 Password: 12345
 
-#### Use the existing projecto to complete requirements 
+#### Use the existing project to complete requirements 
