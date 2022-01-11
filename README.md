@@ -4,6 +4,8 @@
 
 ### Requirements
 
+#### Use the existing project to complete requirements
+
 1. Show:
     * 1.1 Book title.
     * 1.2 Book price.
@@ -15,5 +17,3 @@
 4. Create a login form, it must validate:
     * 4.1 User: admin
     * 4.2 Password: 12345
-
-#### Use the existing project to complete requirements
